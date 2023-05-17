@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - obstacle
+  - interactiveObj
+  - chars
+  - ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: ground
+    uniqueID: 2636182673
+    locked: 0
+  - name: groundHL
+    uniqueID: 4036933885
+    locked: 0
+  - name: char
+    uniqueID: 397127373
+    locked: 0
+  - name: furnitures
+    uniqueID: 586154853
+    locked: 0
